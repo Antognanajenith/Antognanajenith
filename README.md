@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **antognanajenith@gmail.com**
 
+- Currently learing/working on **Books bot app with React native as frontend**
+
 - 🎹 Fun fact **Keyboardist & Melodeon**
 
 <h3 align="left">Connect with me:</h3>
