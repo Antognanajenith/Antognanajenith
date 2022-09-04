@@ -11,6 +11,8 @@
 
 - 🎹 Fun fact **Keyboardist & Melodeon**
 
+<a href="https://app.daily.dev/janto"><img src="https://api.daily.dev/devcards/8c9232acef1941f5a5deef90ba2e88f1.png?r=q9d" width="400" alt="j anto's Dev Card"/></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
