@@ -9,7 +9,7 @@
 
 - Currently learing/working on **Books bot app with React native as frontend**
 
-- 🎹 Fun fact **Keyboardist & Melodeon**
+- 🎹 Fun fact ***Keyboardist & Melodeon***
 
 <a href="https://app.daily.dev/janto"><img src="https://api.daily.dev/devcards/8c9232acef1941f5a5deef90ba2e88f1.png?r=q9d" width="400" alt="j anto's Dev Card"/></a>
 
